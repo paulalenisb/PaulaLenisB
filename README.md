@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hola!! 👋
+
+Soy diseñadora y desarrolladora frontend
+
+
+- 🔭 Actualmente estoy trabajando en [diferentes proyectos que me apasionan](https://github.com/paulalenisb?tab=repositories)
+- 🌱 Estoy estudiando en [Laboratoria](https://www.laboratoria.la/)
+- 👯 Me gustaria colaborar en proyectos donde pueda combinar el diseño y el desarrollo
+- 💬 Preguntame sobre diseño visual (UX/UI) y Javascript.
+- 📫 Me puedes encontrar en <a href="paulalenisb@gmail.com">paulalenisb@gmail.com</a> y [LinkedIn](https://www.linkedin.com/in/paulalenisb/)
+- 🎨 Puedes conocer también mis proyectos de diseño en [Behance](https://www.behance.net/paulalenis)
+
 
 <!--
 **paulalenisb/PaulaLenisB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
