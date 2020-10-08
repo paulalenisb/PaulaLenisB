@@ -1,14 +1,14 @@
 ### Hola!! 👋
 
-Soy diseñadora y desarrolladora frontend
+Soy diseñadora y desarrolladora front end
 
 
 - 🔭 Actualmente estoy trabajando en diferentes proyectos que me [apasionan](https://github.com/paulalenisb?tab=repositories).
 - 🌱 Estoy estudiando en [Laboratoria](https://www.laboratoria.la/).
-- 👯 Me gustaría colaborar en proyectos donde pueda combinar el diseño y el desarrollo.
-- 💬 Pregúntame sobre diseño visual (UX/UI) y Javascript.
-- 📫 Me puedes encontrar en <a href="paulalenisb@gmail.com">paulalenisb@gmail.com</a> y [LinkedIn](https://www.linkedin.com/in/paulalenisb/).
-- 🎨 Puedes conocer también mis proyectos de diseño en [Behance](https://www.behance.net/paulalenis).
+- 👯 Me gustaría colaborar en proyectos donde pueda combinar el diseño y programación.
+- 💬 Pregúntame sobre diseño visual (UX/UI) y Vanilla JS.
+- 📫 Encuéntrame en <a href="paulalenisb@gmail.com">paulalenisb@gmail.com</a> y [LinkedIn](https://www.linkedin.com/in/paulalenisb/).
+- 🎨 Conoce mis proyectos de diseño en [Behance](https://www.behance.net/paulalenis).
 
 
 <!--
