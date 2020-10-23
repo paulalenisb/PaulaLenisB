@@ -3,10 +3,10 @@
 Soy diseñadora y desarrolladora front end
 
 
-- 🔭 Actualmente estoy trabajando en diferentes proyectos que me [apasionan](https://github.com/paulalenisb?tab=repositories).
+- 🔭 Actualmente estoy trabajando en diferentes proyectos que me [apasionan](https://github.com/paulalenisb?tab=repositories) con React y Firebase.
 - 🌱 Estoy estudiando en [Laboratoria](https://www.laboratoria.la/).
 - 👯 Me gustaría colaborar en proyectos donde pueda combinar el diseño y programación.
-- 💬 Pregúntame sobre diseño visual (UX/UI) y Vanilla JS.
+- 💬 Pregúntame sobre diseño visual (UX/UI) y Javascript.
 - 📫 Encuéntrame en <a href="paulalenisb@gmail.com">paulalenisb@gmail.com</a> y [LinkedIn](https://www.linkedin.com/in/paulalenisb/).
 - 🎨 Conoce mis proyectos de diseño en [Behance](https://www.behance.net/paulalenis).
 
