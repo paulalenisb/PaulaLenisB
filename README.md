@@ -1,14 +1,16 @@
-### Hola!! 👋
+### Hi!! 👋
 
-Soy diseñadora y desarrolladora front end
+I'm UI Developer
 
 
-- 🔭 Actualmente estoy trabajando en diferentes proyectos que me [apasionan](https://github.com/paulalenisb?tab=repositories) con React y Firebase.
-- 🌱 Estoy estudiando en [Laboratoria](https://www.laboratoria.la/).
-- 👯 Me gustaría colaborar en proyectos donde pueda combinar el diseño y programación.
-- 💬 Pregúntame sobre diseño visual (UX/UI) y Javascript.
-- 📫 Encuéntrame en <a href="paulalenisb@gmail.com">paulalenisb@gmail.com</a> y [LinkedIn](https://www.linkedin.com/in/paulalenisb/).
-- 🎨 Conoce mis proyectos de diseño en [Behance](https://www.behance.net/paulalenis).
+- 🔭 I’m currently working on differents projects with React Native.
+- 🌱 I’m currently learning UI Design and wordpress
+- 👯 I’m looking to collaborate on design and code projects.
+- 💬 Ask me about visual design (UX/UI) and Javascript.
+- 📫 How to reach me: <a href="paulalenisb@gmail.com">paulalenisb@gmail.com</a> y [LinkedIn](https://www.linkedin.com/in/paulalenisb/).
+- 🎨 Take a look of my portafolio [Behance](https://www.behance.net/paulalenis)
+- ⚡ Fun fact: Love to dance!
+
 
 
 <!--
