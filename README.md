@@ -1,10 +1,10 @@
 ### Hi!! 👋
 
-I'm UI Developer
+I'm UX/UI Developer
 
 
-- 🔭 I’m currently working on differents projects with React Native.
-- 🌱 I’m currently learning UI Design and wordpress
+- 🔭 I’m currently working on differents projects with UX/UI, React and React Native.
+- 🌱 I’m currently learning React Native 
 - 👯 I’m looking to collaborate on design and code projects.
 - 💬 Ask me about visual design (UX/UI) and Javascript.
 - 📫 How to reach me: <a href="paulalenisb@gmail.com">paulalenisb@gmail.com</a> y [LinkedIn](https://www.linkedin.com/in/paulalenisb/).
