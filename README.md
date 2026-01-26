@@ -1,6 +1,6 @@
 ### Hi!! 👋
 
-I'm UX/UI Developer
+I'm  a Product Design Manager
 
 
 - 🔭 I’m currently working on differents projects with UX/UI, React and React Native.
